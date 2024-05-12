@@ -1,0 +1,42 @@
+.div01 {
+    width: 233px;
+    height: 192px;
+    background-color: #FC0000;
+    margin-top: 11px;
+    margin-left: 12px;
+    position: absolute;
+    z-index: 4;
+}
+
+
+.div02 {
+    width: 233px;
+    height: 192px;
+    background-color: #F7FC00;
+    margin-top: 253px;
+    margin-left: 314px;
+    position: absolute;
+    z-index: 2;
+}
+
+
+.div03 {
+    width: 233px;
+    height: 192px;
+    background-color: #05FC00;
+    margin-top: 107px;
+    margin-left: 128px;
+    position: absolute;
+    z-index: 3;
+}
+
+
+.div04 {
+    width: 233px;
+    height: 192px;
+    background-color: #000AFC;
+    margin-top: 203px;
+    margin-left: 244px;
+    position: absolute;
+    z-index: 1;
+}
